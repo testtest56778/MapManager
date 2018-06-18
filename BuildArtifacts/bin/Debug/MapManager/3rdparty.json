@@ -1,0 +1,18 @@
+{
+  "AssemblyName": "MapManager",
+  "FileList": [
+    "Class1.cs",
+    "Gui.baml",
+    "Gui.g.cs",
+    "Gui.xaml",
+    "Gui.xaml.cs",
+    "MapData.cs",
+    "SellExtraMaps.cs",
+    "Settings.cs"
+  ],
+  "Dependencies": [
+    "EXtensions",
+    "Default"
+  ],
+  "References": []
+}

@@ -1,0 +1,12 @@
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\MapManager\Class1.cs
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\MapManager\Gui.xaml.cs
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\MapManager\Gui.xaml
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\BuildArtifacts.exe.config
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\BuildArtifacts.exe
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\BuildArtifacts.pdb
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\obj\Debug\BuildArtifacts.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\obj\Debug\BuildArtifacts.exe
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\obj\Debug\BuildArtifacts.pdb
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\MapManager\Settings.cs
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\MapManager\MapData.cs
+C:\Users\Alex\Desktop\Games\PoE\Botting\Code\Plugins\MapManager\MapManager\BuildArtifacts\bin\Debug\MapManager\SellExtraMaps.cs

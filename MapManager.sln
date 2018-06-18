@@ -1,0 +1,44 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MapManager", "MapManager\MapManager.csproj", "{537ECD3E-4FBE-41C2-B280-53F37FC9C444}"
+	ProjectSection(ProjectDependencies) = postProject
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769} = {63CD0880-12F2-431B-96EF-A9AC2E19F769}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuildArtifacts", "BuildArtifacts\BuildArtifacts.csproj", "{63CD0880-12F2-431B-96EF-A9AC2E19F769}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Debug|x86.ActiveCfg = Debug|x86
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Debug|x86.Build.0 = Debug|x86
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Release|Any CPU.Build.0 = Release|Any CPU
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Release|x86.ActiveCfg = Release|x86
+		{537ECD3E-4FBE-41C2-B280-53F37FC9C444}.Release|x86.Build.0 = Release|x86
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Debug|x86.Build.0 = Debug|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Release|x86.ActiveCfg = Release|Any CPU
+		{63CD0880-12F2-431B-96EF-A9AC2E19F769}.Release|x86.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {98535DDF-EF65-433E-A62F-760FB69F6A7B}
+	EndGlobalSection
+EndGlobal
